@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLVPP.GUI", "QLVPP.GUI\QLVPP.GUI.csproj", "{6421CF94-AA89-43F8-8097-0F65E8B885B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLVPP.BUS", "QLVPP.BUS\QLVPP.BUS.csproj", "{E7030951-8062-4617-91AE-AF9A010EB206}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLVPP.DAL", "QLVPP.DAL\QLVPP.DAL.csproj", "{2A3C161C-2A93-4048-BB56-1ED871AAFF39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6421CF94-AA89-43F8-8097-0F65E8B885B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6421CF94-AA89-43F8-8097-0F65E8B885B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6421CF94-AA89-43F8-8097-0F65E8B885B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6421CF94-AA89-43F8-8097-0F65E8B885B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7030951-8062-4617-91AE-AF9A010EB206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7030951-8062-4617-91AE-AF9A010EB206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7030951-8062-4617-91AE-AF9A010EB206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7030951-8062-4617-91AE-AF9A010EB206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A3C161C-2A93-4048-BB56-1ED871AAFF39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A3C161C-2A93-4048-BB56-1ED871AAFF39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A3C161C-2A93-4048-BB56-1ED871AAFF39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A3C161C-2A93-4048-BB56-1ED871AAFF39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7FBB2BF-8F3C-473F-A5F0-489B5512A4BD}
+	EndGlobalSection
+EndGlobal
